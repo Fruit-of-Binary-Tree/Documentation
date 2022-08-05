@@ -3,5 +3,5 @@ This will be for all our project Documents. E.g. Technical specification, Meetin
 
 Please come here for any information including 3rd party information
 
-- [Scrum Task Board ](https://github.com/orgs/Purple-Iverson/projects/1)
+- [Scrum Task Board ]
  
