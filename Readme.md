@@ -3,6 +3,6 @@ This will be for all our project Documents. E.g. Technical specification, Meetin
 
 Please come here for any information including:
 
-- [Scrum Task Board] 
+- Scrum Task Board:
   https://github.com/orgs/Fruit-of-Binary-Tree/projects/1
  
