@@ -5,4 +5,6 @@ Please come here for any information including:
 
 - Scrum Task Board:
   https://github.com/orgs/Fruit-of-Binary-Tree/projects/1
+  
+ - All information (architectural diagrams, user stories, etc.) are under the wiki tab
  
